@@ -1,0 +1,178 @@
+
+
+.dash {
+    border: 2px solid black;
+    border-radius: 50px;
+    color: #FFFFFF;
+    background-color: #F98917;
+    width: 70%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.dash1 {
+    background-color: #F98917;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.welcome-back {
+    font-size: 2.5rem;
+    margin-right: 10px;
+}
+
+.drop-truck {
+    font-size: 1.0rem;
+}
+
+.bottom {
+    margin-top: 100px;
+}
+
+.top {
+    width: 100%;
+    background: #f7f7f7;
+    border-radius: 25px;
+    padding: 20px;
+}
+
+.top1{
+    display: flex;
+    justify-content: space-evenly;
+}
+.indents,
+.confirmed,
+.loarding {
+    background: white;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+    width: 100%;
+}
+
+.shade{
+    background: #D9D9D9;
+    width:30px;
+    height:30px;
+    border-radius:10px;
+}
+
+.bottom {
+    width: 100%;
+    background: #D9D9D9;
+    border-radius: 25px
+}
+
+.range {
+    font-size: 10px;
+    margin-top: 20px;
+}
+
+.range input {
+    width: 100px;
+    font-size: 16px;
+    border: none;
+    border-radius: 20px;
+    margin: 5px;
+}
+
+input[type="text"]::placeholder {
+    text-align:center;
+    font-weight:bold;
+}
+
+.chart-canvas {
+    margin-left: -100px;
+}
+
+
+/* form */
+
+form{
+    color:#F98917;
+    border-radius: 20px;
+}
+
+form button{
+    background-color: #F98917;
+    color:white;
+}
+
+
+
+.card{
+    border-radius: 30px;;
+}
+
+a{
+    text-decoration:none;
+    color:black;
+}
+a:hover{
+    color:black;
+}
+
+ul.list-unstyled{
+    margin:20px 0 0 20px;
+}
+li.row{
+    padding:12px;
+    list-style-type: none;
+}
+
+
+
+.labelupload {
+    display: flex;
+    justify-content: center; /* Horizontally center the content */
+    align-items: center; /* Vertically center the content */
+    height: 100px;
+    width: 150px;
+    border-radius: 10px;
+    border: none;
+    background-color: #D9D9D9;
+    text-align: center;
+    color: black;
+}
+
+.custom-image {
+    width: 50px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+}
+.main{
+    background-color: #FFFFFF;
+    border: 2px solid #ffffff; /* Example border */
+    border-radius: 10px; /* Example rounded corners */
+    padding: 15px;
+}
+.horizontal-menu ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+}
+
+.horizontal-menu li {
+    margin-right: 10px; /* Adjust spacing between items as needed */
+}
+
+.horizontal-menu a {
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f0f0f0;
+    transition: background-color 0.3s ease;
+}
+
+.horizontal-menu a:hover {
+    background-color: #e0e0e0;
+}
+
+#datepicker,#datepicker1{
+    background-color: #FFFFFF;
+}
+
+
+
+
